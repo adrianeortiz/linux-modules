@@ -3,10 +3,10 @@
 
 **Utilize this as a quick cheatsheet for Linux**
 
-**Commands used in the videos:**
+**Commands used in the s:**
 
 <details>
-<summary>Video: Basic Linux Commands (CLI - Part 2)</summary>
+<summary>: Basic Linux Commands (CLI - Part 2)</summary>
 <br />
 
 General Operations:
@@ -65,7 +65,7 @@ Execute commands as superuser
 ******
 
 <details>
-<summary>Video: Package Manager - Installing Software on Linux</summary>
+<summary>Package Manager - Installing Software on Linux</summary>
 <br />
 
 APT Package Manager:
@@ -87,7 +87,7 @@ SNAP Package Manager:
 ******
 
 <details>
-<summary>Video: Working with Vim Editor</summary>
+<summary>Working with Vim Editor</summary>
 <br />
 
 Install Vim, if it's not available:
@@ -122,7 +122,7 @@ Vim Commands:
 
 
 <details>
-<summary>Video: Linux Accounts & Groups (Users & Permissions Part 1)</summary>
+<summary>: Linux Accounts & Groups (Users & Permissions Part 1)</summary>
  <br />
 
 **Locations of Access Control Files:**
@@ -155,7 +155,7 @@ Vim Commands:
 ******
 
 <details>
-<summary>Video: File Ownership & Permissions (Users & Permissions Part 2)</summary>
+<summary>: File Ownership & Permissions (Users & Permissions Part 2)</summary>
  <br />
 
 - `ls -l` = Print files in a long listing format, you can see ownership and permissions of the file
@@ -214,7 +214,7 @@ _Set permissions for all owners with 3 digits, 1 digit for each owner_ [Absolute
 ******
 
 <details>
-<summary>Video: Introduction to Shell Scripting - Part 1 </summary>
+<summary>: Introduction to Shell Scripting - Part 1 </summary>
  <br />
 
 Create and open setup.sh file in vim editor: <br />
@@ -242,7 +242,7 @@ bash setup.sh
 ******
 
 <details>
-<summary>Video: Shell Scripting Part 2 - Concepts & Syntax </summary>
+<summary>: Shell Scripting Part 2 - Concepts & Syntax </summary>
  <br />
 
 **Variables:**
@@ -370,7 +370,7 @@ while true
 
 
 <details>
-<summary>Video: Shell Scripting Part 3 - Concepts & Syntax </summary>
+<summary>: Shell Scripting Part 3 - Concepts & Syntax </summary>
  <br />
 
 **Functions:**
@@ -446,7 +446,7 @@ echo "sum of 2 and 10 is $result"
 ******
 
 <details>
-<summary>Video: Basic Linux Commands - Pipes & Redirects (CLI - Part 3)</summary>
+<summary>: Basic Linux Commands - Pipes & Redirects (CLI - Part 3)</summary>
 <br />
 
 **Pipe & Less:**
@@ -488,7 +488,7 @@ Different redirects examples/use cases:
 ******
 
 <details>
-<summary>Video: Environment Variables</summary>
+<summary>: Environment Variables</summary>
 <br />
 
 _Variables store information. Environment variables are available for the whole environment._
@@ -542,7 +542,7 @@ Persisting Environment Variables system wide:
 ******
 
 <details>
-<summary>Video: Networking</summary>
+<summary>: Networking</summary>
 <br />
 
 Useful Networking Commands:
@@ -562,7 +562,7 @@ Useful Networking Commands:
 ******
 
 <details>
-<summary>Video: SSH - Secure Shell</summary>
+<summary>: SSH - Secure Shell</summary>
 <br />
 
 Connecting via SSH: `ssh username@SSHserver`
